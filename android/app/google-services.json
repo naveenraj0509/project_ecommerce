@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464696298905",
+    "project_id": "lifestylez2255",
+    "storage_bucket": "lifestylez2255.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464696298905:android:e1dada9ffd6924434dd708",
+        "android_client_info": {
+          "package_name": "com.example.project_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGxKikA4cvVZOIZ_KX1nJHjjlKfKyy9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
